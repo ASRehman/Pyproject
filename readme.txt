@@ -7,3 +7,10 @@ my python project
 #This go for the 3rd commit
 
 # changes from github 4th commit
+
+#Hey this is contributor and I want to add only two functions to your code.
+#int count()
+#return a;
+#int min()
+#return b;
+
